@@ -87,7 +87,6 @@ The Android application provides:
 smart-white-cane/
 │
 ├── README.md
-├── LICENSE
 ├── .gitignore
 │
 ├── firmware/
@@ -103,20 +102,7 @@ smart-white-cane/
 │   ├── gradle/
 │   └── src/
 │
-├── camera/
-│   └── esp32-cam/
-│       └── README.md
-│
-├── backend/
-│   └── README.md
-│
-├── hardware/
-│   └── README.md
-│
 ├── docs/
-│   ├── architecture/
-│   ├── diagrams/
-│   └── reports/
 │
 └── assets/
     ├── images/
