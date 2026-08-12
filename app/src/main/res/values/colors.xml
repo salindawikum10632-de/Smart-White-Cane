@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Purple Theme -->
+    <color name="purple_ultra_dark">#1A0033</color>
+    <color name="purple_deep">#4A148C</color>
+    <color name="purple_dark">#6A1B9A</color>
+    <color name="purple_medium">#7B1FA2</color>
+    <color name="purple_light">#BA68C8</color>
+    <color name="purple_lighter">#E1BEE7</color>
+    <color name="purple_accent">#AA00FF</color>
+
+    <!-- Text Colors -->
+    <color name="text_on_dark">#E1BEE7</color>
+    <color name="text_on_dark_secondary">#CE93D8</color>
+    <color name="text_on_light">#4A148C</color>
+
+    <!-- UI Elements -->
+    <color name="card_dark">#334A148C</color>
+    <color name="input_background">#99E1BEE7</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary_start">#BA68C8</color>
+    <color name="button_primary_end">#9C27B0</color>
+    <color name="button_text">#F3E5F5</color>
+
+    <!-- Status Colors -->
+    <color name="status_connected">#4CAF50</color>
+    <color name="status_disconnected">#F44336</color>
+    <color name="status_warning">#FF9800</color>
+    <color name="status_safe">#4CAF50</color>
+    <color name="status_danger">#F44336</color>
+</resources>

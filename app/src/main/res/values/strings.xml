@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">White Cane Assistant</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="connect_cane">Connect to Cane</string>
+    <string name="disconnect_cane">Disconnect</string>
+    <string name="scanning_devices">Scanning for devices...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="obstacle_detected">Obstacle detected</string>
+    <string name="fall_detected">Fall detected!</string>
+    <string name="emergency_alert">Emergency Alert</string>
+    <string name="battery">Battery: %d%%</string>
+    <string name="device_status">Device Status</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
